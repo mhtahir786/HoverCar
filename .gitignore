@@ -1,0 +1,15 @@
+# Model files
+A2Models/
+ExtraModels/
+Debug/
+.vs/
+
+# Other types
+*.psh
+*.vsh
+*.dll
+*.pdb
+*.log
+*.cache
+*.filters
+*.exe
