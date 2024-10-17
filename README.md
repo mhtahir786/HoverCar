@@ -1,8 +1,8 @@
-#Hover Car Game
+# Hover Car Game
 
 This project was completed as part of a first year assignment during a Games module whilst also being introduced to C++.
 
-###Includes:
+### Includes:
   - Camera Control - Chase & POV (Point of View) views
   - Obstacles + Non-Player Car with collision detection
   - Boost Functionality
