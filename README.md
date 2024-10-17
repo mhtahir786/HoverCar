@@ -8,4 +8,4 @@ This project was completed as part of a first year assignment during a Games mod
   - Boost Functionality
   - Speedometer and Lap timing
 
-Effords have been made to minimise any direct relation to the proprietary engine used to create this game (TL-Engine) for licensing purpose.
+Efforts have been made to minimise any direct relation to the proprietary engine used to create this game (TL-Engine) for licensing purpose.
